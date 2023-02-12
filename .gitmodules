@@ -1,0 +1,4 @@
+[submodule "Submodule_test"]
+	path = Submodule_test
+	url = git@github.com:MoonDweller29/Submodule_test.git
+	branch = master
