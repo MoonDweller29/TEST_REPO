@@ -2,3 +2,6 @@
 	path = Submodule_test
 	url = git@github.com:MoonDweller29/Submodule_test.git
 	branch = master
+[submodule "sub_2"]
+	path = sub_2
+	url = git@github.com:MoonDweller29/Submodule_test.git
