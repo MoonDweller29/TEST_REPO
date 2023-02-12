@@ -5,3 +5,4 @@
 [submodule "sub_2"]
 	path = sub_2
 	url = git@github.com:MoonDweller29/Submodule_test.git
+	branch = test_branch
